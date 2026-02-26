@@ -1,1 +1,2 @@
-Backend Team Example
+Nama: Georgina Gabriella
+NIM: 535250014
