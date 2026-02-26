@@ -1,1 +1,2 @@
-Backend Team Example
+Nama: Garini Cinkalisty
+NIM: 535250017
